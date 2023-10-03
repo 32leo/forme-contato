@@ -26,7 +26,6 @@ Por padrão, os botões HTML são apresentados em um estilo semelhante à plataf
 O elemento HTML &lt;input&gt; é usado para criar controles interativos para formulários baseados na Web, a fim de aceitar dados do usuário; Uma grande variedade de tipos de dados de entrada e widgets de controle estão disponíveis, dependendo do dispositivo e do agente do usuário. O elemento é um dos mais poderosos e complexos em todo o HTML devido ao grande número de combinações de tipos de entrada e atributos.
 
 
-
 ## <h1>–<h6>: Os elementos HTML Section Heading
 Os elementos &lt;HTML&gt; &lt;h1&gt;a &lt;h6&gt; representam seis níveis de títulos de seção. é o nível de seção mais alto e é o mais baixo. Por padrão, todos os elementos de título criam uma caixa de nível de bloco no layout, começando em uma nova linha e ocupando toda a largura disponível em seu bloco de contenção.
 
