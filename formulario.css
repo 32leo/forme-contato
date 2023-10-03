@@ -30,7 +30,10 @@ body{
 }
 button {
     color: white;
+    border: none;
     background: rgb(127, 10, 10);
+    height: 40px;
+    width: 90px;
     transition:1s;
     font-weight: 100;
   }
@@ -39,12 +42,15 @@ button {
   button :focus {
     background: red;
   }
-input{
+input, textarea{
     width: 60%;
     margin: 1%;
     padding: 1%;
     color: white;
     background: rgb(0, 0, 0);
+}
+textarea{
+    height: 150px;
 }
 h1{
     position: absolute;
